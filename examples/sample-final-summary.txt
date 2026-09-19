@@ -1,0 +1,11 @@
+FINAL FIGURE REVIEW MIGRATION
+==============================================
+Approved rows: 12
+PASS — F01 | moved 5 | remaining review items 0 | leaves 57→57 | errors 0
+PASS — F02 | moved 4 | remaining review items 0 | leaves 46→46 | errors 0
+PASS — F03 | moved 3 | remaining review items 0 | leaves 48→48 | errors 0
+SUMMARY
+Files processed: 3
+Items moved: 12
+Errors: 0
+Review items remaining across final set: 0
