@@ -1,0 +1,36 @@
+# Illustrator working files
+*.ai
+*.ait
+*.eps
+
+# Optional rendered/exported media
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+
+# Generated organizer outputs
+_ORG*/
+_ORGANIZED*/
+_FINAL_REVIEWED*/
+
+# Generated reports
+*_REPORT.txt
+*_SUMMARY.txt
+REVIEW_INVENTORY_*.tsv
+REVIEW_INVENTORY_*.txt
+FINAL_MIGRATION_*.txt
+
+# Backups
+BACKUPS/
+*_BACKUP/
+*_BACKUPS/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
